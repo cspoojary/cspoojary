@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>, I'm Chaithanya S Poojary
-  </h1></p>
+<p >
+  <h1><center>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>, I'm Chaithanya S Poojary
+  </center></h1></p>
 
 <p align="center">
   ## 🧑‍💻 About Me:
