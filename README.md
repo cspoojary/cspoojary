@@ -1,5 +1,5 @@
-<p align="center">
-  <h1>Hi there 👋, I'm Chaithanya S Poojary</h1>
+<p>
+  <h1><center> Hi there 👋, I'm Chaithanya S Poojary</center></h1>
 </p>
 
 
@@ -8,7 +8,7 @@
 </p>
 
 
--- **cspoojary/cspoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--  **cspoojary/cspoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
