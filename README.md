@@ -1,9 +1,9 @@
 <p align="center">
-  # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>, I'm Chaithanya S Poojary
+  #  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>, I'm Chaithanya S Poojary
 </p>
-
+-- 
 <p align="center">
-  ## 🧑‍💻 About Me:
+  ##  🧑‍💻 About Me:
 </p>
 
 -- **cspoojary/cspoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
