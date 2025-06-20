@@ -1,4 +1,4 @@
-## Hi there 👋, I'am Chaithanya S Poojary
+##                          Hi there 👋, I'm Chaithanya S Poojary
 
 <!--
 **cspoojary/cspoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
