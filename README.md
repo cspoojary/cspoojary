@@ -1,10 +1,12 @@
-#                       Hi there 👋, I'm Chaithanya S Poojary
+<p align="center">
+  # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>, I'm Chaithanya S Poojary
+</p>
 
----
+<p align="center">
+  ## 🧑‍💻 About Me:
+</p>
 
-## 🧑‍💻 About Me:
-<!--
-**cspoojary/cspoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- **cspoojary/cspoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
