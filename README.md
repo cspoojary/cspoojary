@@ -20,7 +20,7 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 
 ---
 
-<h3 align="left">
+<h3 align="center">
   🌐 Connect with me:
 </h3>
 
