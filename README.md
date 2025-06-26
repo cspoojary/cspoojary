@@ -20,11 +20,13 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 
 ---
 
-<h2 align="center">🌐 Connect with me</h2>
+<h3 align="left">
+  🌐 Connect with me:
+</h3>
 
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/chaithanya-s-poojary05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
