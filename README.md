@@ -15,10 +15,10 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 ---
 
 ### 👤 Quick Info:
-- 🙋‍♂️ Hi! I'm @Chaithanya-Poojary  
+- 🙋‍♂️ Hi! I'm @Chaithanya-S-Poojary  
 - 🧑‍💻 Aspiring **Data Analyst**  
 - 🎯 I'm interested in **Data Science & Analytics**  
 - 📘 Currently learning **Advanced Python & SQL for Data Analysis**  
-- 📬 Reach me at: [chaithanyaspoojary@email.com](mailto:chaithanyaspoojary@email.com) *(replace with your actual email)*
+- 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com) 
 
 ---
