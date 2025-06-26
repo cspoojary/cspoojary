@@ -13,14 +13,16 @@ I have hands-on experience in **Python, SQL, Excel**, and data visualization too
 I enjoy transforming raw data into actionable insights and am continuously expanding my knowledge in **data science and machine learning**. Still learning and growing every day!
 
 ---
-<center>
-### 👤 Quick Info: </center>
+<h3 align="center">👤 Quick Info:</h3>
 
-- 🙋‍♂️ Hi! I'm @Chaithanya-S-Poojary  
-- 🧑‍💻 Aspiring **Data Analyst**  
-- 🎯 I'm interested in **Data Science & Analytics**  
-- 📘 Currently learning **Advanced Python & SQL for Data Analysis**  
-- 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com) 
+<p align="center">
+  🙋‍♂️ Hi! I'm @Chaithanya-S-Poojary  
+  <br>🧑‍💻 Aspiring <strong>Data Analyst</strong>  
+  <br>🎯 I'm interested in <strong>Data Science & Analytics</strong>  
+  <br>📘 Currently learning <strong>Advanced Python & SQL for Data Analysis</strong>  
+  <br>📬 Reach me at: <a href="mailto:chaithanyaspoojary05@gmail.com">chaithanyaspoojary05@gmail.com</a>
+</p>
+
 
 
 <h2 align="center">🌐 Connect with me:</h2>
