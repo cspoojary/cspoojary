@@ -14,8 +14,8 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 
 ---
 
-<div align="center"> 
-  ### 👤 Quick Info: 
+<center>
+  ### 👤 Quick Info: </center>
 - 🙋‍♂️ Hi! I'm @Chaithanya-S-Poojary  
 - 🧑‍💻 Aspiring **Data Analyst**  
 - 🎯 I'm interested in **Data Science & Analytics**  
@@ -30,4 +30,4 @@ I enjoy transforming raw data into actionable insights and am continuously expan
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-</div>
+
