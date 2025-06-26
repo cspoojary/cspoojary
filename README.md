@@ -2,7 +2,6 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>, I'm Chaithanya S Poojary
 <br> </div>
----
 
 ## 🧑‍💻 About Me:
 A motivated and detail-oriented <b>Data Analyst</b> with a strong academic background in <b>Computer Science and Mathematics</b> from <b>Mangalore University</b>. Passionate about working with data to uncover insights and drive better decision-making. 
@@ -18,8 +17,6 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 - 🎯 I'm interested in **Data Science & Analytics**  
 - 📘 Currently learning **Advanced Python & SQL for Data Analysis**  
 - 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com)
-
----
 
 <div align="center">
 
