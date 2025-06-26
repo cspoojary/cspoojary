@@ -22,7 +22,7 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 - 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com) 
 
 ---
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 
 <p align="left">
   <a href="www.linkedin.com/in/chaithanya-s-poojary05" target="_blank">
