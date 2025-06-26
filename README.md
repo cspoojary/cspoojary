@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me:
 
 </div>
-A motivated and detail-oriented **Data Analyst** with a strong academic background in **Computer Science and Mathematics** from **Mangalore University**. Passionate about working with data to uncover insights and drive better decision-making. 
+A motivated and detail-oriented <b>Data Analyst</b> with a strong academic background in <b>Computer Science and Mathematics</b> from <b>Mangalore University</b>. Passionate about working with data to uncover insights and drive better decision-making. 
 
 I have hands-on experience in **Python, SQL, Excel**, and data visualization tools like **Power BI** and **Tableau**.
 
