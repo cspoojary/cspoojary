@@ -10,7 +10,6 @@ I have hands-on experience in **Python, SQL, Excel**, and data visualization too
 
 I enjoy transforming raw data into actionable insights and am continuously expanding my knowledge in **data science and machine learning**. Still learning and growing every day!
 
----
 ### 👤 Quick Info:
 - 🙋‍♂️ Hi! I'm @Chaithanya-Poojary  
 - 🧑‍💻 Aspiring **Data Analyst**  
