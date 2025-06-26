@@ -22,12 +22,13 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 - 📘 Currently learning **Advanced Python & SQL for Data Analysis**  
 - 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com) 
 
----
-### 🌐 Connect with me:
 
-<p align="left">
+<h2 align="center">🌐 Connect with me:</h2>
+
+<p align="center">
   <a href="www.linkedin.com/in/chaithanya-s-poojary05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
