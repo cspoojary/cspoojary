@@ -20,7 +20,7 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 
 <div align="center">
 
-  <h3>🌐 Connect with me:</h3>
+  ### 🌐 Connect with me:
   
   
   <a href="www.linkedin.com/in/chaithanya-s-poojary05" target="_blank">
