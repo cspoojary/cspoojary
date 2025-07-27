@@ -17,6 +17,12 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 - 📘 Currently learning **Advanced Python & SQL for Data Analysis**  
 - 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com)
 
+## 📂 My Data Analyst Portfolio
+
+Check out my data analytics projects here:  
+👉 [Chaithanya Analyst Desk](https://github.com/your-username/Chaithanya-Analyst-Desk)
+
+
 
 ## 🌐 Connect with me:
 
