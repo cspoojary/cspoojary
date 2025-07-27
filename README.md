@@ -18,10 +18,8 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 - 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com)
 
 ## 📂 My Data Analyst Portfolio
-
-Check out my data analytics projects here:  
-[Chaithanya-Analytical-Lab]([https://github.com/your-username/Chaithanya-Analyst-Desk](https://github.com/cspoojary/Chaithanya-Analytics-Lab))
-
+Check out my data analytics projects here:    
+ [Chaithanya Analytics Lab](https://github.com/cspoojary/Chaithanya-Analytics-Lab)
 
 
 ## 🌐 Connect with me:
