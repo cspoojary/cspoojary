@@ -20,7 +20,7 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 ## 📂 My Data Analyst Portfolio
 
 Check out my data analytics projects here:  
-👉 [Chaithanya Analyst Desk](https://github.com/your-username/Chaithanya-Analyst-Desk)
+[Chaithanya-Analytical-Lab]([https://github.com/your-username/Chaithanya-Analyst-Desk](https://github.com/cspoojary/Chaithanya-Analytics-Lab))
 
 
 
