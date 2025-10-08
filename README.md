@@ -23,7 +23,7 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 - Check out my data analytics projects here:    
  [Chaithanya Analytics Lab](https://github.com/cspoojary/Chaithanya-Analytics-Lab)
 
-
+---
 ## 🌐 Connect with me:
 
   <a href="www.linkedin.com/in/chaithanya-s-poojary05" target="_blank">
