@@ -3,6 +3,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>, I'm Chaithanya S Poojary:)
  
 <br> </div>
+<div align = 'center'>
 ## 🧑‍💻 About Me:
 A motivated and detail-oriented <b>Data Analyst</b> with a strong academic background in <b>Computer Science and Mathematics</b> from <b>Mangalore University</b>. Passionate about working with data to uncover insights and drive better decision-making. 
 
