@@ -26,11 +26,11 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 <div align="center">
  
 ##  📊 My Portfolio
-</div>
+
 
 - Check out my data analytics projects here:    
  [Chaithanya Analytics Lab](https://github.com/cspoojary/Chaithanya-Analytics-Lab)
-
+</div>
 ---
 <div align="center">
  
