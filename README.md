@@ -36,7 +36,6 @@ Check out my data analytics projects here:
          height="40" />
   </a>
 </p>
->
 
 
 
