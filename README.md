@@ -16,7 +16,6 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 - 🎯 I'm interested in **Data Science & Analytics**  
 - 📘 Currently learning **Advanced Python & SQL for Data Analysis**  
 - 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com)
-
 --- 
 ##  📊 My Portfolio
 
