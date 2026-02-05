@@ -23,6 +23,7 @@ Check out my data analytics projects here:
 - [Chaithanya Analytics Lab](https://github.com/cspoojary/Chaithanya-Analytics-Lab)
 
 ---
+
 <div align="center">
  
 ## 🌐 Connect with me:
