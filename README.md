@@ -8,9 +8,6 @@ A motivated and detail-oriented <b>Data Analyst</b> with a strong academic backg
 I have hands-on experience in **Python, SQL, Excel**, and data visualization tools like **Power BI**.
 I enjoy transforming raw data into actionable insights and am continuously expanding my knowledge in **data science and machine learning**. Still learning and growing every day!
 
-
-
-
 ---
 ## 👤 Quick Info:
 
