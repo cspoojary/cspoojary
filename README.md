@@ -13,7 +13,7 @@ I enjoy transforming raw data into actionable insights and am continuously expan
 
 - 🙋‍♂️ Hi! I'm @Chaithanya-S-Poojary  
 - 🧑‍💻 Aspiring in **Data Scientist**  
-- 🎯 I'm interested in **Data Science & Analytics**  
+- 🎯 I'm interested in **Data Science & Analytics and Python** realated opportunity.
 - 📘 Currently learning **Advanced Python & Machine Learning for Data Analysis**  
 - 📬 Reach me at: [chaithanyaspoojary05@gmail.com](mailto:chaithanyaspoojary05@gmail.com)
 --- 
